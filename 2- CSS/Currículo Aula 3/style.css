@@ -1,0 +1,16 @@
+body{
+    background-image: url(backgroud.jpg);
+    background repeat: no-repeat;
+    /* 
+    outras formas de colocar imagem como fundo, 
+    background repeat no-repeat (quando não quer que a imagem se repita pela pág toda.) background-image: url(backgroud.jpg);
+    background-position: 100% 10%; (referesse a distancia da imagem referente às margens)
+    background-position: center center; (referesse ao local onde a imagem deve ficar)
+    background-attachment: fixed; (com isso a imaghem fica fixa, somente o conteudo da pág é que anda com o cursor)
+    */
+    background-size: cover;
+}
+
+p{
+    color:rgb(155, 47, 65);
+}

@@ -1,0 +1,27 @@
+body{
+    background: rgb(107, 153, 175);
+} 
+
+h1{
+    color:indigo;
+}
+
+h4{
+    color:rgb(242, 228, 252)
+}
+
+h2{
+    color: green;
+}
+
+h3{
+    color:red;
+    }
+
+    .foto-principal{
+        width: 200px;
+    }
+
+    #titulo-principal{
+        color:yellow;
+    }
